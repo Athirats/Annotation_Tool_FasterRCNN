@@ -1,0 +1,22 @@
+<annotation>
+  <folder>trafficlight_data/images</folder>
+  <filename>trafficlight-2.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1920</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>traffic-light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>533</xmin>
+      <ymin>35</ymin>
+      <xmax>622</xmax>
+      <ymax>151</ymax>
+    </bndbox>
+  </object>
+</annotation>
